@@ -1,0 +1,50 @@
+[
+    {
+    "mood":"Sunset",
+    "category":"personal"
+    },
+    {
+    "mood":"Winter",
+    "category":"personal"
+    },
+    {
+    "mood":"Moonlight",
+    "category":"personal"
+    },
+    {
+    "mood":"Autumn",
+    "category": "personal"
+    },
+    {
+    "mood":"Summer Night",
+    "category":"collaborative"
+    },
+    {
+    "mood":"Beach",
+    "category":"collaborative"
+    },
+    {
+    "mood": "evening",
+    "category": "collaborative"
+    },
+    {
+    "mood":"Let's Eat",
+    "category":"collaborative"
+    },
+    {
+    "mood": "Summer Night",
+    "category": "recommended"
+    },
+    {
+    "mood": "Animal Photography",
+    "category": "recommended"
+    },
+    {
+    "mood": "Mountain Views",
+    "category": "recommended"
+    },
+    {
+    "mood": "Candid Photography",
+    "category": "recommended"
+    }
+    ]
