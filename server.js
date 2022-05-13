@@ -20,7 +20,7 @@ function accessData () {
 //endpoint search
 app.get('/mood-boards', (req,res) => {
     const pullData = accessData()
-    return res.json(pullData)
+    return res.status(200).json(pullData)
 })
 
 
