@@ -1,62 +1,80 @@
 [
     {
-    "id": "p01",
-    "mood":"Sunset",
-    "category":"personal"
+        "id":"s01",
+        "mood":"Celestial",
+        "category":"spotlight",
+        "images": []
     },
     {
-    "id": "p02",
-    "mood":"Winter",
-    "category":"personal"
+        "id": "p01",
+        "mood":"Sunset",
+        "category":"personal",
+        "images": []
     },
     {
-    "id": "p03",
-    "mood":"Moonlight",
-    "category":"personal"
+        "id": "p02",
+        "mood":"Winter",
+        "category":"personal",
+        "images": []
     },
     {
-    "id": "p04",
-    "mood":"Autumn",
-    "category": "personal"
+        "id": "p03",
+        "mood":"Moonlight",
+        "category":"personal",
+        "images": []
     },
     {
-    "id": "c01",
-    "mood":"Summer Night",
-    "category":"collaborative"
+        "id": "p04",
+        "mood":"Autumn",
+        "category": "personal",
+        "images": []
     },
     {
-    "id": "c02",
-    "mood":"Beach",
-    "category":"collaborative"
+        "id": "c01",
+        "mood":"Summer Night",
+        "category":"collaborative",
+        "images": []
     },
     {
-    "id": "c03",
-    "mood": "evening",
-    "category": "collaborative"
+        "id": "c02",
+        "mood":"Beach",
+        "category":"collaborative",
+        "images": []
     },
     {
-    "id": "c04",
-    "mood":"Let's Eat",
-    "category":"collaborative"
+        "id": "c03",
+        "mood": "evening",
+        "category": "collaborative",
+        "images": []
     },
     {
-    "id": "r01",
-    "mood": "Summer Night",
-    "category": "recommended"
+        "id": "c04",
+        "mood":"Let's Eat",
+        "category":"collaborative",
+        "images": []
     },
     {
-    "id": "r02",
-    "mood": "Animal Photography",
-    "category": "recommended"
+        "id": "r01",
+        "mood": "Summer Night",
+        "category": "recommended",
+        "images": []
     },
     {
-    "id": "r03",
-    "mood": "Mountain Views",
-    "category": "recommended"
+        "id": "r02",
+        "mood": "Animal Photography",
+        "category": "recommended",
+        "images": []
     },
     {
-    "id": "r04",
-    "mood": "Candid Photography",
-    "category": "recommended"
+        "id": "r03",
+        "mood": "Mountain Views",
+        "category": "recommended",
+        "images": []
+    },
+    {
+        "id": "r04",
+        "mood": "Candid Photography",
+        "category": "recommended",
+        "images": []
     }
 ]
